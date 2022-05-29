@@ -1,4 +1,4 @@
-# ETCN
+# Embedded Temporal Convolutional Networks for Essential Climate Variables Forecasting (ETCN)
 This reposioty contains the code and data associated with the paper "Embedded Temporal Convolutional Networks for Essential Climate Variables Forecasting" 
 by by Maria Myrto Villia, Grigorios Tsagkatakis, Mahta Moghaddam, and Panagiotis Tsakalides at the MDPI Sensors 2022, 22(5), 1851
 https://www.mdpi.com/1424-8220/22/5/1851
