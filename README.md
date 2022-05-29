@@ -12,5 +12,5 @@ The Embedded Temporal Convolutional Network (E-TCN) model accepts as input satel
 
 Dataset is also available at https://figshare.com/articles/dataset/E-TCN_dataset/19236876
 
-The code can be executed on the Google Colab here
+The code can be directly executed on the Google Colab (see code)
 
