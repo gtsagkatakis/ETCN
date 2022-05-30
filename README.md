@@ -14,3 +14,4 @@ Dataset is also available at https://figshare.com/articles/dataset/E-TCN_dataset
 
 The code can be directly executed on the Google Colab (see code)
 
+This research work was partially supported by the Marie Skłodowska-Curie project [CALCHAS](https:\\sites.google.com/view/calchas-eu) (contract no.842560) of the H2020 Framework Program of the European Commission.
